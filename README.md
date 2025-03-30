@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/9610bd40-676b-401c-8e20-04ff82adb2a8)
+![Image](https://github.com/user-attachments/assets/a4a5870f-1371-40c6-b9c2-ce0599c27b66)
 
 <h2 align="center">Hi👋 My name is Mickel, from Venezuela 🍃</h2>
 
@@ -78,6 +78,6 @@ const aboutMe = {
 <img width="4" />
 <a href="mailto:arrozmickel@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 <img width="4" />
-<a href="https://portfolio-mickel-arroz.vercel.app/"><img src="https://img.shields.io/static/v1?message=FreeCodeCamp&logo=FreeCodeCamp&label=&color=333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="FreeCodeCamp logo"  /></a>
+<a href="https://www.freecodecamp.org/espanol/mickel_arroz"><img src="https://img.shields.io/static/v1?message=FreeCodeCamp&logo=FreeCodeCamp&label=&color=333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="FreeCodeCamp logo"  /></a>
 </div>
 
