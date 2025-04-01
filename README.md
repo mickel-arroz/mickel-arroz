@@ -66,9 +66,10 @@ const aboutMe = {
 </br>
 </br>
 </br>
+</br>
 
 
-<div align="right">
+<div align="center">
 
 <a href="https://portfolio-mickel-arroz.vercel.app/CV-Mickel_Arroz.pdf" download="CV - Mickel Arroz.pdf" title="Descargar Curriculum Vitae" aria-label="Boton para Descargar Curriculum Vitae"><img src="https://img.shields.io/static/v1?message=Curriculum&label=&color=72159DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Curriculum Vitae"  /></a>
 <img width="4" />
