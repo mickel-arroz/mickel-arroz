@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/a4a5870f-1371-40c6-b9c2-ce0599c27b66)
 
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&color=7aa2f7&center=true&vCenter=true&width=680&lines=Hola+👋;Soy+Mickel+Arroz;Software+Engineer" alt="typing-svg" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7aa2f7&center=true&vCenter=true&width=680&lines=Hola+soy+Mickel+Arroz;Software+Engineer" alt="typing-svg" />
 </div>
 </br>
 
@@ -36,7 +36,7 @@ const aboutMe = {
 </br>
 
 <div align="center">
-   <img src="https://streak-stats.demolab.com/?user=mickel-arroz&theme=tokyonight&hide_border=false" alt="AnhellO :: GitHub Streak" />
+   <img src="https://streak-stats.demolab.com?user=mickel-arroz&theme=tokyonight&hide_border=false&date_format=M%20j%5B,%20Y%5D&card_width=500" alt="GitHub Streak" />
    <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mickel_arroz&theme=tokyonight&layout=compact&range=last_7_days" alt="AnhellO :: Wakatime (7d)" />
    </br>
