@@ -1,8 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/a4a5870f-1371-40c6-b9c2-ce0599c27b66)
 
-<h2 align="center">Hi👋 My name is Mickel, from Venezuela 🍃</h2>
-
-</br>
+<div align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&color=7aa2f7&center=true&vCenter=true&width=680&lines=Hola+👋;Soy+Mickel+Arroz;Software+Engineer" alt="typing-svg" />
+</div>
 </br>
 
 <p><em>University student at <a href="https://www.ucab.edu.ve/">Andres Bello Catholic University</a>, specializing in Computer Engineering.</em>💻</p>
@@ -28,12 +28,36 @@ const aboutMe = {
 ```
 </br>
 
+
+<div align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mickel-arroz&theme=tokyonight" alt="Summary Stats" />
+</div>
+
+</br>
+
+<div align="center">
+   <img src="https://streak-stats.demolab.com/?user=mickel-arroz&theme=tokyonight&hide_border=false" alt="AnhellO :: GitHub Streak" />
+   <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mickel_arroz&theme=tokyonight&layout=compact&range=last_7_days" alt="AnhellO :: Wakatime (7d)" />
+   </br>
+   </div>
+</div>
+
+
+
+</div>
+
+
+
+
+</br>
+</br>
+</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickel-arroz&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
 </div>
 
 </br>
-
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" height="40" alt="html5 logo" />
@@ -82,3 +106,9 @@ const aboutMe = {
 <a href="https://www.freecodecamp.org/espanol/mickel_arroz"><img src="https://img.shields.io/static/v1?message=FreeCodeCamp&logo=FreeCodeCamp&label=&color=333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="FreeCodeCamp logo"  /></a>
 </div>
 
+
+</br>
+</br>
+<div align="center">
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=No%20hay%20nada%20imposible%20para%20quien%20lo%20intenta&author=Alejandro%20Magno" alt="Dev Quote" />
+</div>
